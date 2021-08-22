@@ -1,12 +1,15 @@
 {
   "name": "try-webpack",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "repository": "https://github.com/Kentama7/try-webpack.git",
   "author": "Kentama7 <kentama.7m@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
