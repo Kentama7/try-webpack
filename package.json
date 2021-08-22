@@ -2,6 +2,10 @@
   "name": "try-webpack",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
   "repository": "https://github.com/Kentama7/try-webpack.git",
   "author": "Kentama7 <kentama.7m@gmail.com>",
   "license": "MIT",
