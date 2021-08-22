@@ -1,1 +1,5 @@
 # try-webpack
+
+```
+yarn init
+```
